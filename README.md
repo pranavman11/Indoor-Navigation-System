@@ -1,1 +1,3 @@
 # Indoor-Navigation-System
+
+Lot of navigation apps like Google map are available for navigation but none of them support navigation inside a building by taking into account rooms, corridor and floors. The challenge is to create an app that would show a navigation path in the real world on your mobile device screen. This technology is beneficial to everyday citizens because it allows one to accurately navigate to a specific location in a building they have never been to before, such as government offices, a classroom in a campus, malls/retail store to show customers the items they would want to purchase etc
